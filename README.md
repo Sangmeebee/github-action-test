@@ -8,3 +8,5 @@
 - dev, stg : firebase distribution에 업로드
 - prod : playstore 비공개 테스트로 업로드
 - CI/CD 완료시 slack에 노티
+
+API Reference) https://www.data.go.kr/data/15108075/openapi.do?recommendDataYn=Y#/API%20%EB%AA%A9%EB%A1%9D/selectAdmmSexdBrthReg
